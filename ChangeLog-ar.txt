@@ -1,0 +1,13 @@
+{"version_code":451214,"content":"
+<p>vتحديث جديد 10.90</p>
+
+<p>≪تحديث إجباري ضد الحظر≫ </p>
+<p>ملاحظة: اذا لم يتم حظر رقمك من قبل يجب عمل نسخة احتياطية للمحادثات ثم حذف الواتساب و تثبيت الاصدار الجديد 10.90 لان في حال لم تقم بحذف البرنامج قبل تثبيت الاصدار الجديد سيتم حظر رقمك باي وقت. </p>
+
+<p>New Update v10.90</p>
+
+<p>«Urgent update - Anti-Ban» </p>
+<p>Please before install NAWhatsApp V10.90, take backup - uninstall the Old version - And install NAWA 10.90 </p>
+
+","url":"http://www.naljaede.com/2017/10/nawhatsapp.html"
+}
